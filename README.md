@@ -1,1 +1,1 @@
-# YandexPracticum_DataAnalysis_Projects
+# Data_Analysis_Projects
